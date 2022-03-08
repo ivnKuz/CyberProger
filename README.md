@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberProger
-- 👀 I’m interested in ... Learning about development.
-- 🌱 I’m currently learning ... JS,HTML,CSS,JAVA.
+- 👀 I’m interested in ... Web development.
+- 🌱 I’m currently learning ... JS,HTML,CSS, angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
